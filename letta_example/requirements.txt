@@ -1,0 +1,9 @@
+# Minimum packages for the voice agent sample
+letta-client
+python-dotenv
+# The LiveKit agent framework and provider plugins are required to run the voice agent
+# Install these according to the lette-voice example repo; package names may vary.
+livekit
+deepgram-sdk
+# cartesia SDK (if available) - replace with the correct package if different
+# cartesia-client
